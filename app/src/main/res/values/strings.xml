@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Jusan Budget</string>
+    <string name="search_hint">Поиск в Jusan</string>
+    <string name="how_many_bonuses">Бонусы 2%</string>
+    <string name="bonus_currency">Б</string>
+    <string name="cards_title">Карты</string>
+    <string name="type_of_card">Платежная карта</string>
+    <string name="money_currency">₸</string>
+    <string name="budget_title">Аналитика бюджета</string>
+    <string name="budget_description">Затраты по категориям</string>
+    <string name="open_card_text">Открыть карту</string>
+    <string name="credit_text">Оформить \nкредит</string>
+    <string name="percent_text">Рефинанс\nировать займ</string>
+    <string name="deposit_text">Открыть \nдепозит</string>
+    <string name="my_bank_menu">мой банк</string>
+    <string name="main_menu">главная</string>
+    <string name="exchange_menu">переводы</string>
+    <string name="payments_menu">платежи</string>
+    <string name="others_menu">меню</string>
+</resources>

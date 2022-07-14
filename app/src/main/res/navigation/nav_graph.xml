@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/expensesFragment">
+
+    <fragment
+        android:id="@+id/expensesFragment"
+        android:name="kz.home.jusanbudget.presentation.expenses.ExpensesFragment"
+        android:label="ExpensesFragment"
+        tools:layout="@layout/fragment_expenses" />
+    <fragment
+        android:id="@+id/futureFragment"
+        android:name="kz.home.jusanbudget.presentation.analytics.FutureFragment"
+        android:label="FutureFragment"
+        tools:layout="@layout/fragment_future" />
+    <fragment
+        android:id="@+id/newFragment"
+        android:name="kz.home.jusanbudget.presentation.bonusCategories.NewFragment"
+        android:label="NewFragment"
+        tools:layout="@layout/fragment_new" />
+</navigation>

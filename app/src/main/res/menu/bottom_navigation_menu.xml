@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/expensesFragment"
+        android:enabled="true"
+        android:icon="@drawable/pie_chart_icon"
+        android:title="аналитика" />
+    <item
+        android:id="@+id/futureFragment"
+        android:enabled="true"
+        android:icon="@drawable/bar_chart_icon"
+        android:title="прогнозы" />
+    <item
+        android:id="@+id/newFragment"
+        android:enabled="true"
+        android:icon="@drawable/apps_icon"
+        android:title="отчеты" />
+</menu>
